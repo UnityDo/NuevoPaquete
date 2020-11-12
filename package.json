@@ -1,0 +1,18 @@
+{
+  "name": "com.unity.ejemplo",
+  "version": "1.2.3",
+  "displayName": "PaquetePrueba",
+  "description": "Este es un ejemplo de Packete",
+  "unity": "2019.1",
+  "unityRelease": "0b5",
+  "keywords": [
+    "keyword1",
+    "keyword2",
+    "keyword3"
+  ],
+  "author": {
+    "name": "Unity",
+    "email": "unity@example.com",
+    "url": "https://www.unity3d.com"
+  }
+}
